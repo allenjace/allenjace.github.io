@@ -11,6 +11,12 @@ li:before {
     counter-increment: item;
 }
 
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body{
+   font-family: 'Brush Script MT ', cursive;
+}
+
 .open-btn{
     position: fixed;
     top: 10px;
